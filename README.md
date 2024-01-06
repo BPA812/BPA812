@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BPA812!
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and Aviation
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on Nothing
 
